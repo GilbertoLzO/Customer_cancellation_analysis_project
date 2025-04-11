@@ -71,7 +71,7 @@ Este proyecto ofrece una solución práctica para el área de marketing y retenc
 
 ---
 
-## 🚀 Tecnologías Usadas
+## Tecnologías Usadas
 
 - Python
 - Pandas, NumPy
@@ -79,12 +79,3 @@ Este proyecto ofrece una solución práctica para el área de marketing y retenc
 - Seaborn, Matplotlib
 - Jupyter Notebook
 
----
-
-## 📎 Enlace al proyecto
-
-Puedes explorar el notebook directamente aquí:  
-🔗 [Ver Notebook en GitHub](https://github.com/TU_USUARIO/interconnect-churn-prediction) *(reemplaza con tu enlace real)*
-
----
- 
