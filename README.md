@@ -65,9 +65,12 @@ Este proyecto ofrece una solución práctica para el área de marketing y retenc
 ## Archivos Incluidos
 
 - `interconnect_churn_analysis.ipynb` – Notebook principal del análisis
-- `data/` – Carpeta con los datos de entrada
 - `requirements.txt` – Dependencias del proyecto
 - `README.md` – Descripción general del proyecto
+
+Los datos utilizados en este proyecto fueron proporcionados por Tripleten con fines educativos. Por razones de privacidad y propiedad intelectual, no se incluyen en este repositorio.
+
+Si deseas replicar este análisis, puedes sustituir los datos con un conjunto similar de clientes.
 
 ---
 
@@ -78,4 +81,7 @@ Este proyecto ofrece una solución práctica para el área de marketing y retenc
 - Scikit-learn
 - Seaborn, Matplotlib
 - Jupyter Notebook
+
+---
+
 
